@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **School projects**
 
-- 🌱 I’m currently learning **Node, EJS**
+- 🌱 I’m currently learning **SvelteKit, 11TY**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
