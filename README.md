@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Ilona</h1>
 
-![Logo](https://github.com/user-attachments/assets/df88a889-23d8-4ce7-aa8e-747d4e018369)
+![Logo](https://github.com/user-attachments/assets/42f49a07-8057-411b-9a42-9e6c7f782a57)
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
