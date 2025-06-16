@@ -21,7 +21,7 @@
 
 <h2 align="center"> Bio </h2>
 
-<p align="center"> A frontend designer and developer in uni. I turn tea into code and designs into interactive websites. I'm all about making the web more accessible and performing like a champion—because everyone deserves to access the magic of the internet. Check out my projects, and let’s build something awesome (or at least try... with some delicious tea)! 🚀💻☕ #AccessibilityMatters #PerformanceGoals </p>
+<p align="center"> A frontend designer and developer in uni. I turn my ADHD into code and designs into interactive websites. I'm all about making the web more accessible and performing like a champion—because everyone deserves to access the magic of the internet. Check out my projects, and let’s build something awesome!🚀💻☕ #AccessibilityMatters #PerformanceGoals </p>
 
 <br>
 
