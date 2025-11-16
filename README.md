@@ -21,7 +21,7 @@
 
 <h2 align="center"> Bio </h2>
 
-<p align="center"> A frontend designer and developer in uni. I turn my ADHD into code and designs into interactive websites. I'm all about making the web more accessible and performing, because everyone deserves to access the magic of the internet. Check out my projects, and let’s build something awesome!🚀💻☕ #AccessibilityMatters #PerformanceGoals </p>
+<p align="center"> Frontend designer and developer, recently graduated and working on personal and client projects. I care about building fast, accessible and well-structured websites that feel good to use. <br><br> Take a look at my work — it shows how I think, build and keep improving. </p>
 
 <br>
 
