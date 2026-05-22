@@ -21,7 +21,7 @@
 
 <h2 align="center"> Bio </h2>
 
-<p align="center"> Frontend designer and developer, recently graduated and working on personal and client projects. I care about building fast, accessible and well-structured websites that feel good to use. <br><br> Take a look at my work — it shows how I think, build and keep improving. </p>
+<p align="center"> Frontend designer and developer, recently graduated and working on personal and client projects. I care about building fast, accessible and well-structured websites that feel good to use. <br><br> Take a look at my work - it shows how I think, build and keep improving. </p>
 
 <br>
 
